@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56b33539349b2984299494ae34947b4e, type: 3}
+  m_Name: Input Settings
+  m_EditorClassIdentifier: 
+  Axes:
+  - name: HorizontalP1
+    description: 
+    positive: 275
+    negative: 276
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 3
+    sensitivity: 3
+    snap: 0
+    invert: 0
+    type: 1
+    axis: 0
+    joystick: 0
+  - name: HorizontalP2
+    description: 
+    positive: 100
+    negative: 97
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 3
+    sensitivity: 3
+    snap: 0
+    invert: 0
+    type: 1
+    axis: 0
+    joystick: 0
+  - name: ShootProjectileP1
+    description: 
+    positive: 44
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: ShootProjectileP2
+    description: 
+    positive: 102
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: JumpP1
+    description: 
+    positive: 273
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: JumpP2
+    description: 
+    positive: 119
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: LoadChiP1
+    description: 
+    positive: 274
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: LoadChiP2
+    description: 
+    positive: 115
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: KickP1
+    description: 
+    positive: 44
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: KickP2
+    description: 
+    positive: 122
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: PunchP1
+    description: 
+    positive: 47
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: PunchP2
+    description: 
+    positive: 103
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: Pause Game
+    description: 
+    positive: 27
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: UltimateP1
+    description: 
+    positive: 46
+    negative: 0
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0
+  - name: UltimateP2
+    description: 
+    positive: 104
+    negative: 104
+    altPositive: 0
+    altNegative: 0
+    deadZone: 0.001
+    gravity: 1000
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joystick: 0

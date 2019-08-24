@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: af5c8bd36d513694dadee19b11919481
+timeCreated: 1513059525
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle Hold Throwable 4_0
+    21300002: Idle Hold Throwable 4_1
+    21300004: Idle Hold Throwable 4_2
+    21300006: Idle Hold Throwable 4_3
+    21300008: Idle Hold Throwable 4_4
+    21300010: Idle Hold Throwable 4_5
+    21300012: Idle Hold Throwable 4_6
+    21300014: Idle Hold Throwable 4_7
+    21300016: Idle Hold Throwable 4_8
+    21300018: Idle Hold Throwable 4_9
+    21300020: Idle Hold Throwable 4_10
+    21300022: Idle Hold Throwable 4_11
+    21300024: Idle Hold Throwable 4_12
+    21300026: Idle Hold Throwable 4_13
+    21300028: Idle Hold Throwable 4_14
+    21300030: Idle Hold Throwable 4_15
+    21300032: Idle Hold Throwable 4_16
+    21300034: Idle Hold Throwable 4_17
+    21300036: Idle Hold Throwable 4_18
+    21300038: Idle Hold Throwable 4_19
+    21300040: Idle Hold Throwable 4_20
+    21300042: Idle Hold Throwable 4_21
+    21300044: Idle Hold Throwable 4_22
+    21300046: Idle Hold Throwable 4_23
+    21300048: Idle Hold Throwable 4_24
+    21300050: Idle Hold Throwable 4_25
+    21300052: Idle Hold Throwable 4_26
+    21300054: Idle Hold Throwable 4_27
+    21300056: Idle Hold Throwable 4_28
+    21300058: Idle Hold Throwable 4_29
+    21300060: Idle Hold Throwable 4_30
+    21300062: Idle Hold Throwable 4_31
+    21300064: Idle Hold Throwable 4_32
+    21300066: Idle Hold Throwable 4_33
+    21300068: Idle Hold Throwable 4_34
+    21300070: Idle Hold Throwable 4_35
+    21300072: Idle Hold Throwable 4_36
+    21300074: Idle Hold Throwable 4_37
+    21300076: Idle Hold Throwable 4_38
+    21300078: Idle Hold Throwable 4_39
+    21300080: Idle Hold Throwable 4_40
+    21300082: Idle Hold Throwable 4_41
+    21300084: Idle Hold Throwable 4_42
+    21300086: Idle Hold Throwable 4_43
+    21300088: Idle Hold Throwable 4_44
+    21300090: Idle Hold Throwable 4_45
+    21300092: Idle Hold Throwable 4_46
+    21300094: Idle Hold Throwable 4_47
+    21300096: Idle Hold Throwable 4_48
+    21300098: Idle Hold Throwable 4_49
+    21300100: Idle Hold Throwable 4_50
+    21300102: Idle Hold Throwable 4_51
+    21300104: Idle Hold Throwable 4_52
+    21300106: Idle Hold Throwable 4_53
+    21300108: Idle Hold Throwable 4_54
+    21300110: Idle Hold Throwable 4_55
+    21300112: Idle Hold Throwable 4_56
+    21300114: Idle Hold Throwable 4_57
+    21300116: Idle Hold Throwable 4_58
+    21300118: Idle Hold Throwable 4_59
+    21300120: Idle Hold Throwable 4_60
+    21300122: Idle Hold Throwable 4_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3430
+        width: 113
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3430
+        width: 114
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3430
+        width: 114
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3430
+        width: 114
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_4
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 3430
+        width: 113
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3145
+        width: 113
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3145
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3145
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3145
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_9
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 3145
+        width: 113
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2861
+        width: 113
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2861
+        width: 114
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2861
+        width: 114
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_13
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2861
+        width: 114
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_14
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2861
+        width: 113
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2577
+        width: 113
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_16
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2577
+        width: 114
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2577
+        width: 114
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_18
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2577
+        width: 114
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_19
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2577
+        width: 113
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2292
+        width: 113
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2292
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2292
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_23
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2292
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_24
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2292
+        width: 113
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2009
+        width: 113
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2009
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_27
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2009
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_28
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2009
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_29
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2009
+        width: 113
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1724
+        width: 113
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1724
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1724
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_33
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1724
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_34
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1724
+        width: 113
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1441
+        width: 113
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1441
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_37
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1441
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_38
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1441
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_39
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1441
+        width: 113
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1157
+        width: 113
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1157
+        width: 114
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_42
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1157
+        width: 114
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_43
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1157
+        width: 114
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_44
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1157
+        width: 113
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 873
+        width: 113
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_46
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 873
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_47
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 873
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_48
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 873
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_49
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 873
+        width: 113
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 589
+        width: 113
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_51
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 589
+        width: 114
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_52
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 589
+        width: 114
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_53
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 589
+        width: 114
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_54
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 589
+        width: 113
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 306
+        width: 113
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_56
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 306
+        width: 114
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_57
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 306
+        width: 114
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_58
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 306
+        width: 114
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_59
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 306
+        width: 113
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 21
+        width: 113
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Idle Hold Throwable 4_61
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 21
+        width: 114
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

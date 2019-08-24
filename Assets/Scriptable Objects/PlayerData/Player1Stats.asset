@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a7cc51fc0a0284e809948b2a07f4e9, type: 3}
+  m_Name: Player1Stats
+  m_EditorClassIdentifier: 
+  DamageTaken: 100
+  ChiSpent: 75
+  ChiRenewed: 165
+  ProjectilesCounter: 5
+  JumpsCounter: 7
+  TeleportationsCounter: 3

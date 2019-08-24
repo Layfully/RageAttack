@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - terrain
+  - Enemy
+  - Pause
+  - Spawn Point
+  - Game Over
+  - Player1Values
+  - Player2Values
+  - Player1Label
+  - Player2Label
+  - Pickable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Grass
+  - Sky
+  - Platform
+  - terrain
+  - Bullet
+  - Light Obstacle
+  - Light Source
+  - Ambient Light
+  - Player
+  - Pickable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background Far
+    uniqueID: 479139591
+    locked: 0
+  - name: Background Close
+    uniqueID: 2470628955
+    locked: 0
+  - name: Terrain
+    uniqueID: 1687871415
+    locked: 0
+  - name: Water
+    uniqueID: 637219833
+    locked: 0
+  - name: Bullet
+    uniqueID: 1064921899
+    locked: 0
+  - name: Player
+    uniqueID: 3239855151
+    locked: 0

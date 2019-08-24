@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: a1c3f651105d3e74c900034909a32d35
+timeCreated: 1512748060
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WalkingThrowable_0
+    21300002: WalkingThrowable_1
+    21300004: WalkingThrowable_2
+    21300006: WalkingThrowable_3
+    21300008: WalkingThrowable_4
+    21300010: WalkingThrowable_5
+    21300012: WalkingThrowable_6
+    21300014: WalkingThrowable_7
+    21300016: WalkingThrowable_8
+    21300018: WalkingThrowable_9
+    21300020: WalkingThrowable_10
+    21300022: WalkingThrowable_11
+    21300024: WalkingThrowable_12
+    21300026: WalkingThrowable_13
+    21300028: WalkingThrowable_14
+    21300030: WalkingThrowable_15
+    21300032: WalkingThrowable_16
+    21300034: WalkingThrowable_17
+    21300036: WalkingThrowable_18
+    21300038: WalkingThrowable_19
+    21300040: WalkingThrowable_20
+    21300042: WalkingThrowable_21
+    21300044: WalkingThrowable_22
+    21300046: WalkingThrowable_23
+    21300048: WalkingThrowable_24
+    21300050: WalkingThrowable_25
+    21300052: WalkingThrowable_26
+    21300054: WalkingThrowable_27
+    21300056: WalkingThrowable_28
+    21300058: WalkingThrowable_29
+    21300060: WalkingThrowable_30
+    21300062: WalkingThrowable_31
+    21300064: WalkingThrowable_32
+    21300066: WalkingThrowable_33
+    21300068: WalkingThrowable_34
+    21300070: WalkingThrowable_35
+    21300072: WalkingThrowable_36
+    21300074: WalkingThrowable_37
+    21300076: WalkingThrowable_38
+    21300078: WalkingThrowable_39
+    21300080: WalkingThrowable_40
+    21300082: WalkingThrowable_41
+    21300084: WalkingThrowable_42
+    21300086: WalkingThrowable_43
+    21300088: WalkingThrowable_44
+    21300090: WalkingThrowable_45
+    21300092: WalkingThrowable_46
+    21300094: WalkingThrowable_47
+    21300096: WalkingThrowable_48
+    21300098: WalkingThrowable_49
+    21300100: WalkingThrowable_50
+    21300102: WalkingThrowable_51
+    21300104: WalkingThrowable_52
+    21300106: WalkingThrowable_53
+    21300108: WalkingThrowable_54
+    21300110: WalkingThrowable_55
+    21300112: WalkingThrowable_56
+    21300114: WalkingThrowable_57
+    21300116: WalkingThrowable_58
+    21300118: WalkingThrowable_59
+    21300120: WalkingThrowable_60
+    21300122: WalkingThrowable_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkingThrowable_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6038
+        width: 197
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 6038
+        width: 197
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_2
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6038
+        width: 197
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_3
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 6038
+        width: 197
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_4
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 6038
+        width: 197
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5537
+        width: 196
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5537
+        width: 196
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 5537
+        width: 195
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_8
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 5537
+        width: 194
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_9
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 5537
+        width: 194
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5038
+        width: 194
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5038
+        width: 194
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_12
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 5038
+        width: 194
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_13
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 5038
+        width: 194
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_14
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 5038
+        width: 194
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4537
+        width: 194
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4537
+        width: 196
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_17
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4539
+        width: 197
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_18
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 4537
+        width: 197
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_19
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 4537
+        width: 197
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4039
+        width: 197
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_21
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4039
+        width: 197
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_22
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4039
+        width: 197
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_23
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 4039
+        width: 197
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_24
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 4039
+        width: 197
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3537
+        width: 200
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3537
+        width: 197
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_27
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 3537
+        width: 197
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_28
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 3537
+        width: 197
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_29
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3537
+        width: 197
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3039
+        width: 197
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_31
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3039
+        width: 196
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_32
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 3039
+        width: 194
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_33
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 3039
+        width: 194
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_34
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3039
+        width: 193
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2538
+        width: 193
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_36
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2538
+        width: 193
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_37
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2538
+        width: 190
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_38
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2538
+        width: 190
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_39
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2538
+        width: 190
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2037
+        width: 190
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2038
+        width: 190
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_42
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2038
+        width: 190
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_43
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2039
+        width: 190
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_44
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2039
+        width: 190
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1538
+        width: 190
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_46
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1538
+        width: 190
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_47
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1538
+        width: 190
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_48
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1538
+        width: 190
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_49
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1538
+        width: 192
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1037
+        width: 193
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_51
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1037
+        width: 193
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_52
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1037
+        width: 193
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_53
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1037
+        width: 193
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_54
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1037
+        width: 193
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_55
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 538
+        width: 194
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_56
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 538
+        width: 194
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_57
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 538
+        width: 194
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_58
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 538
+        width: 194
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_59
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 538
+        width: 196
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 37
+        width: 196
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingThrowable_61
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 37
+        width: 197
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

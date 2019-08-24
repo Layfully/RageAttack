@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 3794fdf8f3bd32c43a858df2f4c6f63b
+timeCreated: 1510573297
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jump3_0
+    21300002: Jump3_1
+    21300004: Jump3_2
+    21300006: Jump3_3
+    21300008: Jump3_4
+    21300010: Jump3_5
+    21300012: Jump3_6
+    21300014: Jump3_7
+    21300016: Jump3_8
+    21300018: Jump3_9
+    21300020: Jump3_10
+    21300022: Jump3_11
+    21300024: Jump3_12
+    21300026: Jump3_13
+    21300028: Jump3_14
+    21300030: Jump3_15
+    21300032: Jump3_16
+    21300034: Jump3_17
+    21300036: Jump3_18
+    21300038: Jump3_19
+    21300040: Jump3_20
+    21300042: Jump3_21
+    21300044: Jump3_22
+    21300046: Jump3_23
+    21300048: Jump3_24
+    21300050: Jump3_25
+    21300052: Jump3_26
+    21300054: Jump3_27
+    21300056: Jump3_28
+    21300058: Jump3_29
+    21300060: Jump3_30
+    21300062: Jump3_31
+    21300064: Jump3_32
+    21300066: Jump3_33
+    21300068: Jump3_34
+    21300070: Jump3_35
+    21300072: Jump3_36
+    21300074: Jump3_37
+    21300076: Jump3_38
+    21300078: Jump3_39
+    21300080: Jump3_40
+    21300082: Jump3_41
+    21300084: Jump3_42
+    21300086: Jump3_43
+    21300088: Jump3_44
+    21300090: Jump3_45
+    21300092: Jump3_46
+    21300094: Jump3_47
+    21300096: Jump3_48
+    21300098: Jump3_49
+    21300100: Jump3_50
+    21300102: Jump3_51
+    21300104: Jump3_52
+    21300106: Jump3_53
+    21300108: Jump3_54
+    21300110: Jump3_55
+    21300112: Jump3_56
+    21300114: Jump3_57
+    21300116: Jump3_58
+    21300118: Jump3_59
+    21300120: Jump3_60
+    21300122: Jump3_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump3_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 6042
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 6043
+        width: 228
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_2
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 6045
+        width: 228
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_3
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 6045
+        width: 226
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_4
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 6045
+        width: 226
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5546
+        width: 229
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5547
+        width: 225
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_7
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 5549
+        width: 228
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_8
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 5549
+        width: 231
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_9
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 5550
+        width: 229
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5051
+        width: 232
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_11
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 5051
+        width: 238
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_12
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 5052
+        width: 241
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_13
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 5052
+        width: 241
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_14
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 5051
+        width: 237
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4550
+        width: 231
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 4550
+        width: 228
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_17
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 4550
+        width: 227
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_18
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 4547
+        width: 225
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_19
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 4547
+        width: 222
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4045
+        width: 221
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 4045
+        width: 219
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_22
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 4045
+        width: 219
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_23
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 4043
+        width: 216
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_24
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 4042
+        width: 216
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3541
+        width: 219
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3541
+        width: 219
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_27
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 3540
+        width: 222
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_28
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 3540
+        width: 222
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_29
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3540
+        width: 225
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3039
+        width: 225
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_31
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3039
+        width: 228
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_32
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 3039
+        width: 228
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_33
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 3039
+        width: 228
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_34
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3039
+        width: 228
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2541
+        width: 228
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_36
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2541
+        width: 228
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_37
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2541
+        width: 228
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_38
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2541
+        width: 228
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_39
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2541
+        width: 228
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2039
+        width: 225
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2039
+        width: 225
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_42
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2039
+        width: 225
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_43
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2039
+        width: 225
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_44
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2039
+        width: 225
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1541
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_46
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1541
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_47
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1541
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_48
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1541
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_49
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1541
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1040
+        width: 225
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_51
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1040
+        width: 225
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_52
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1040
+        width: 225
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_53
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1042
+        width: 225
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_54
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1043
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_55
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 541
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_56
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 541
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_57
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 541
+        width: 225
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_58
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 541
+        width: 224
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_59
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 541
+        width: 223
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_60
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 43
+        width: 225
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump3_61
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 43
+        width: 225
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

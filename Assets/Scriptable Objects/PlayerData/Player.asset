@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2401af74412a04c84e5898c5e5474c, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  BulletCost: 15
+  SpecialBulletCost: 30
+  SpecialMultipleBulletCost: 100
+  SpecialAboveCost: 100
+  ChiLoadAmount: 1
+  JumpVelocity: 15
+  FallMultipler: 3
+  LowJumpMultipler: 1
+  Speed: 5
+  DoublePressSpeed: 0.2
+  TeleportationDistance: 2
+  TeleportCooldown: 1
+  ShootCooldown: 1.5
+  MaxJumpVelocity: 15
+  MinJumpVelocity: 5
+  LongJumpTreshold: 4
+  JumpLoadTime: 10
+  JumpButtonName: JumpP1
+  ShootProjectileButtonName: ShootProjectileP1
+  PunchButtonName: PunchP1
+  UltimateButtonName: UltimateP1
+  LoadChiButtonName: LoadChiP1
+  HorizontalAxisName: HorizontalP1
+  GroundLayer:
+    serializedVersion: 2
+    m_Bits: 2048
+  VelocityTreshold: {x: -15, y: -15, z: 15, w: 15}

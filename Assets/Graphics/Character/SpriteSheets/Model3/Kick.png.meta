@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 09a3c758ef986a44ba9ec00ce90599cc
+timeCreated: 1510572728
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kick_0
+    21300002: Kick_1
+    21300004: Kick_2
+    21300006: Kick_3
+    21300008: Kick_4
+    21300010: Kick_5
+    21300012: Kick_6
+    21300014: Kick_7
+    21300016: Kick_8
+    21300018: Kick_9
+    21300020: Kick_10
+    21300022: Kick_11
+    21300024: Kick_12
+    21300026: Kick_13
+    21300028: Kick_14
+    21300030: Kick_15
+    21300032: Kick_16
+    21300034: Kick_17
+    21300036: Kick_18
+    21300038: Kick_19
+    21300040: Kick_20
+    21300042: Kick_21
+    21300044: Kick_22
+    21300046: Kick_23
+    21300048: Kick_24
+    21300050: Kick_25
+    21300052: Kick_26
+    21300054: Kick_27
+    21300056: Kick_28
+    21300058: Kick_29
+    21300060: Kick_30
+    21300062: Kick_31
+    21300064: Kick_32
+    21300066: Kick_33
+    21300068: Kick_34
+    21300070: Kick_35
+    21300072: Kick_36
+    21300074: Kick_37
+    21300076: Kick_38
+    21300078: Kick_39
+    21300080: Kick_40
+    21300082: Kick_41
+    21300084: Kick_42
+    21300086: Kick_43
+    21300088: Kick_44
+    21300090: Kick_45
+    21300092: Kick_46
+    21300094: Kick_47
+    21300096: Kick_48
+    21300098: Kick_49
+    21300100: Kick_50
+    21300102: Kick_51
+    21300104: Kick_52
+    21300106: Kick_53
+    21300108: Kick_54
+    21300110: Kick_55
+    21300112: Kick_56
+    21300114: Kick_57
+    21300116: Kick_58
+    21300118: Kick_59
+    21300120: Kick_60
+    21300122: Kick_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kick_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 6038
+        width: 222
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 6038
+        width: 224
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_2
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 6038
+        width: 222
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 6038
+        width: 224
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_4
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 6038
+        width: 222
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5537
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 5537
+        width: 222
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_7
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 5537
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_8
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 5537
+        width: 222
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_9
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 5537
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5036
+        width: 221
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 5036
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 5035
+        width: 222
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_13
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 5035
+        width: 225
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_14
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 5035
+        width: 224
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4537
+        width: 225
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4537
+        width: 224
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_17
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 4537
+        width: 225
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_18
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 4537
+        width: 224
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_19
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 4537
+        width: 225
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4036
+        width: 223
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 4036
+        width: 225
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_22
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 4036
+        width: 222
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_23
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 4036
+        width: 225
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_24
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 4036
+        width: 222
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3534
+        width: 225
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3534
+        width: 222
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_27
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3534
+        width: 225
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_28
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 3534
+        width: 222
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_29
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 3534
+        width: 225
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3036
+        width: 222
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3036
+        width: 225
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_32
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3036
+        width: 227
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_33
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 3036
+        width: 231
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_34
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 3036
+        width: 235
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2534
+        width: 241
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_36
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2534
+        width: 244
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_37
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2534
+        width: 244
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_38
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2534
+        width: 250
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_39
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2534
+        width: 252
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_40
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2036
+        width: 257
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_41
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2036
+        width: 257
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_42
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2036
+        width: 251
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_43
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2036
+        width: 250
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_44
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2036
+        width: 244
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1535
+        width: 240
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1535
+        width: 235
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_47
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1535
+        width: 231
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_48
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1536
+        width: 225
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_49
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1538
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1036
+        width: 225
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1036
+        width: 222
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_52
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1036
+        width: 225
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_53
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1036
+        width: 225
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_54
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1036
+        width: 225
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 538
+        width: 221
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_56
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 538
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_57
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 538
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_58
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 538
+        width: 224
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_59
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 538
+        width: 222
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_60
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 37
+        width: 222
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kick_61
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 37
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

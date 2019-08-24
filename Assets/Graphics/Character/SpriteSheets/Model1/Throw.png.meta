@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 83146faebbc571b44bb6511093ffce0f
+timeCreated: 1512747901
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Throw_0
+    21300002: Throw_1
+    21300004: Throw_2
+    21300006: Throw_3
+    21300008: Throw_4
+    21300010: Throw_5
+    21300012: Throw_6
+    21300014: Throw_7
+    21300016: Throw_8
+    21300018: Throw_9
+    21300020: Throw_10
+    21300022: Throw_11
+    21300024: Throw_12
+    21300026: Throw_13
+    21300028: Throw_14
+    21300030: Throw_15
+    21300032: Throw_16
+    21300034: Throw_17
+    21300036: Throw_18
+    21300038: Throw_19
+    21300040: Throw_20
+    21300042: Throw_21
+    21300044: Throw_22
+    21300046: Throw_23
+    21300048: Throw_24
+    21300050: Throw_25
+    21300052: Throw_26
+    21300054: Throw_27
+    21300056: Throw_28
+    21300058: Throw_29
+    21300060: Throw_30
+    21300062: Throw_31
+    21300064: Throw_32
+    21300066: Throw_33
+    21300068: Throw_34
+    21300070: Throw_35
+    21300072: Throw_36
+    21300074: Throw_37
+    21300076: Throw_38
+    21300078: Throw_39
+    21300080: Throw_40
+    21300082: Throw_41
+    21300084: Throw_42
+    21300086: Throw_43
+    21300088: Throw_44
+    21300090: Throw_45
+    21300092: Throw_46
+    21300094: Throw_47
+    21300096: Throw_48
+    21300098: Throw_49
+    21300100: Throw_50
+    21300102: Throw_51
+    21300104: Throw_52
+    21300106: Throw_53
+    21300108: Throw_54
+    21300110: Throw_55
+    21300112: Throw_56
+    21300114: Throw_57
+    21300116: Throw_58
+    21300118: Throw_59
+    21300120: Throw_60
+    21300122: Throw_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Throw_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6038
+        width: 215
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 6038
+        width: 218
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 6038
+        width: 219
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_3
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 6038
+        width: 222
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_4
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 6038
+        width: 225
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5537
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_6
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 5537
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_7
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 5537
+        width: 228
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_8
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 5537
+        width: 228
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_9
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 5537
+        width: 231
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5038
+        width: 231
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 5038
+        width: 231
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_12
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 5038
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_13
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 5038
+        width: 235
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_14
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 5038
+        width: 232
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4537
+        width: 234
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4537
+        width: 235
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_17
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4537
+        width: 235
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_18
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 4537
+        width: 235
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_19
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 4537
+        width: 235
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4039
+        width: 235
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_21
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4039
+        width: 235
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_22
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4039
+        width: 235
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_23
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 4039
+        width: 234
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_24
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 4039
+        width: 232
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3537
+        width: 231
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3537
+        width: 229
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_27
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 3537
+        width: 225
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_28
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3537
+        width: 225
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_29
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 3537
+        width: 225
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3039
+        width: 222
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_31
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3039
+        width: 219
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_32
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 3039
+        width: 219
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_33
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3039
+        width: 216
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_34
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 3039
+        width: 216
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2538
+        width: 216
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_36
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2538
+        width: 216
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_37
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2538
+        width: 213
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_38
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2538
+        width: 213
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_39
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2538
+        width: 213
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_40
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2039
+        width: 213
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_41
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2039
+        width: 210
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_42
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2039
+        width: 210
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_43
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2039
+        width: 210
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_44
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2039
+        width: 209
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_45
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1538
+        width: 207
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_46
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1538
+        width: 209
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_47
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1538
+        width: 206
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_48
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1538
+        width: 206
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_49
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1538
+        width: 203
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1038
+        width: 203
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_51
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1038
+        width: 208
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_52
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1038
+        width: 210
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_53
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1038
+        width: 213
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_54
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1038
+        width: 216
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 538
+        width: 222
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_56
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 538
+        width: 229
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_57
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 538
+        width: 235
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_58
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 538
+        width: 235
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_59
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 538
+        width: 232
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_60
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 231
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Throw_61
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 37
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

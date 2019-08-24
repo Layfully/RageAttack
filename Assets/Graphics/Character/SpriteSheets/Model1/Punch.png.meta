@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: e12212fe933bb8744be5101cc516da72
+timeCreated: 1509915897
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Punch_0
+    21300002: Punch_1
+    21300004: Punch_2
+    21300006: Punch_3
+    21300008: Punch_4
+    21300010: Punch_5
+    21300012: Punch_6
+    21300014: Punch_7
+    21300016: Punch_8
+    21300018: Punch_9
+    21300020: Punch_10
+    21300022: Punch_11
+    21300024: Punch_12
+    21300026: Punch_13
+    21300028: Punch_14
+    21300030: Punch_15
+    21300032: Punch_16
+    21300034: Punch_17
+    21300036: Punch_18
+    21300038: Punch_19
+    21300040: Punch_20
+    21300042: Punch_21
+    21300044: Punch_22
+    21300046: Punch_23
+    21300048: Punch_24
+    21300050: Punch_25
+    21300052: Punch_26
+    21300054: Punch_27
+    21300056: Punch_28
+    21300058: Punch_29
+    21300060: Punch_30
+    21300062: Punch_31
+    21300064: Punch_32
+    21300066: Punch_33
+    21300068: Punch_34
+    21300070: Punch_35
+    21300072: Punch_36
+    21300074: Punch_37
+    21300076: Punch_38
+    21300078: Punch_39
+    21300080: Punch_40
+    21300082: Punch_41
+    21300084: Punch_42
+    21300086: Punch_43
+    21300088: Punch_44
+    21300090: Punch_45
+    21300092: Punch_46
+    21300094: Punch_47
+    21300096: Punch_48
+    21300098: Punch_49
+    21300100: Punch_50
+    21300102: Punch_51
+    21300104: Punch_52
+    21300106: Punch_53
+    21300108: Punch_54
+    21300110: Punch_55
+    21300112: Punch_56
+    21300114: Punch_57
+    21300116: Punch_58
+    21300118: Punch_59
+    21300120: Punch_60
+    21300122: Punch_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Punch_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 6038
+        width: 216
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6038
+        width: 219
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_2
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 6038
+        width: 219
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_3
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 6038
+        width: 219
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_4
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 6038
+        width: 223
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5537
+        width: 222
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 5537
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_7
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 5537
+        width: 225
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_8
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 5537
+        width: 226
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_9
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 5537
+        width: 228
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5036
+        width: 229
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 5035
+        width: 229
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_12
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 5035
+        width: 232
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_13
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 5035
+        width: 235
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_14
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 5035
+        width: 232
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4537
+        width: 235
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_16
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 4537
+        width: 238
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_17
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4537
+        width: 238
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_18
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 4537
+        width: 239
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_19
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 4537
+        width: 241
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4036
+        width: 244
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 4036
+        width: 244
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_22
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4036
+        width: 249
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_23
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 4036
+        width: 251
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_24
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 4036
+        width: 252
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3537
+        width: 254
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3537
+        width: 257
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_27
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3537
+        width: 257
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_28
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 3537
+        width: 259
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_29
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 3537
+        width: 257
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3036
+        width: 258
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3036
+        width: 257
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_32
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3036
+        width: 257
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_33
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 3036
+        width: 258
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_34
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 3036
+        width: 257
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2537
+        width: 257
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2537
+        width: 257
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_37
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2537
+        width: 257
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_38
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2537
+        width: 258
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_39
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2537
+        width: 257
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2036
+        width: 257
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_41
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2036
+        width: 257
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_42
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2036
+        width: 252
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_43
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2036
+        width: 251
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_44
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2036
+        width: 251
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1538
+        width: 251
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_46
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1538
+        width: 247
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_47
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1538
+        width: 248
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_48
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1538
+        width: 248
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_49
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1538
+        width: 244
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_50
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1036
+        width: 244
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1036
+        width: 241
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_52
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1036
+        width: 240
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_53
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1036
+        width: 235
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_54
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1036
+        width: 235
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_55
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 538
+        width: 232
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_56
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 538
+        width: 232
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_57
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 538
+        width: 228
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_58
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 538
+        width: 227
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_59
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 538
+        width: 226
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_60
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 37
+        width: 222
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Punch_61
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 37
+        width: 222
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

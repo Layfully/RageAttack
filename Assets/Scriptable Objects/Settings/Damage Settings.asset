@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dd4c6bb5ccc8634ca9bbfefd1dc0f77, type: 3}
+  m_Name: Damage Settings
+  m_EditorClassIdentifier: 
+  WaterDamage: 3
+  WaterDamageTimer: 1
+  PunchDamage: 10
+  SpecialProjectileDamage: 20
+  ProjectileDamage: 10
+  ThrowDamage: 15

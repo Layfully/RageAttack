@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 1289cb9e9f2d7d8488d5b3935c1a098a
+timeCreated: 1509813362
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jump_1_phase_0
+    21300002: Jump_1_phase_1
+    21300004: Jump_1_phase_2
+    21300006: Jump_1_phase_3
+    21300008: Jump_1_phase_4
+    21300010: Jump_1_phase_5
+    21300012: Jump_1_phase_6
+    21300014: Jump_1_phase_7
+    21300016: Jump_1_phase_8
+    21300018: Jump_1_phase_9
+    21300020: Jump_1_phase_10
+    21300022: Jump_1_phase_11
+    21300024: Jump_1_phase_12
+    21300026: Jump_1_phase_13
+    21300028: Jump_1_phase_14
+    21300030: Jump_1_phase_15
+    21300032: Jump_1_phase_16
+    21300034: Jump_1_phase_17
+    21300036: Jump_1_phase_18
+    21300038: Jump_1_phase_19
+    21300040: Jump_1_phase_20
+    21300042: Jump_1_phase_21
+    21300044: Jump_1_phase_22
+    21300046: Jump_1_phase_23
+    21300048: Jump_1_phase_24
+    21300050: Jump_1_phase_25
+    21300052: Jump_1_phase_26
+    21300054: Jump_1_phase_27
+    21300056: Jump_1_phase_28
+    21300058: Jump_1_phase_29
+    21300060: Jump_1_phase_30
+    21300062: Jump_1_phase_31
+    21300064: Jump_1_phase_32
+    21300066: Jump_1_phase_33
+    21300068: Jump_1_phase_34
+    21300070: Jump_1_phase_35
+    21300072: Jump_1_phase_36
+    21300074: Jump_1_phase_37
+    21300076: Jump_1_phase_38
+    21300078: Jump_1_phase_39
+    21300080: Jump_1_phase_40
+    21300082: Jump_1_phase_41
+    21300084: Jump_1_phase_42
+    21300086: Jump_1_phase_43
+    21300088: Jump_1_phase_44
+    21300090: Jump_1_phase_45
+    21300092: Jump_1_phase_46
+    21300094: Jump_1_phase_47
+    21300096: Jump_1_phase_48
+    21300098: Jump_1_phase_49
+    21300100: Jump_1_phase_50
+    21300102: Jump_1_phase_51
+    21300104: Jump_1_phase_52
+    21300106: Jump_1_phase_53
+    21300108: Jump_1_phase_54
+    21300110: Jump_1_phase_55
+    21300112: Jump_1_phase_56
+    21300114: Jump_1_phase_57
+    21300116: Jump_1_phase_58
+    21300118: Jump_1_phase_59
+    21300120: Jump_1_phase_60
+    21300122: Jump_1_phase_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump_1_phase_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6000
+        width: 218
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 6000
+        width: 216
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 6000
+        width: 216
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_3
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 6000
+        width: 215
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_4
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 6000
+        width: 211
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 5499
+        width: 212
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 5499
+        width: 212
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 5499
+        width: 210
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_8
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 5499
+        width: 209
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_9
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 5499
+        width: 206
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4998
+        width: 206
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4998
+        width: 206
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_12
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 4998
+        width: 203
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_13
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 4998
+        width: 205
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_14
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 4998
+        width: 203
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4498
+        width: 201
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 4498
+        width: 200
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_17
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 4498
+        width: 197
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 4498
+        width: 197
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_19
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 4498
+        width: 194
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3997
+        width: 194
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 3997
+        width: 190
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_22
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 3997
+        width: 193
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_23
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 3997
+        width: 191
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_24
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 3997
+        width: 190
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3498
+        width: 192
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3499
+        width: 190
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_27
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 3498
+        width: 191
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_28
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 3498
+        width: 191
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_29
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 3499
+        width: 193
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2999
+        width: 191
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2999
+        width: 190
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_32
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2999
+        width: 194
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_33
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2999
+        width: 194
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_34
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2999
+        width: 194
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2498
+        width: 194
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2498
+        width: 194
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2498
+        width: 197
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_38
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2498
+        width: 200
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_39
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 2498
+        width: 203
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1998
+        width: 206
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_41
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1998
+        width: 209
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_42
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1998
+        width: 213
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_43
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1998
+        width: 214
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_44
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1998
+        width: 215
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1497
+        width: 211
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1497
+        width: 212
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_47
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1494
+        width: 213
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_48
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1494
+        width: 213
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_49
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1494
+        width: 213
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 214
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_51
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 993
+        width: 215
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_52
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 993
+        width: 215
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_53
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 993
+        width: 206
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_54
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 994
+        width: 198
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 496
+        width: 197
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_56
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 496
+        width: 194
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_57
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 496
+        width: 197
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_58
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 496
+        width: 204
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_59
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 496
+        width: 206
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 212
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_1_phase_61
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 214
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
